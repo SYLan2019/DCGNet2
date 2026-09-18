@@ -1,5 +1,5 @@
 # DCGNet
-
+Small object detection using multi-scale detail enhancement and decoupled detection head, Neurocomputing, Vol. 680, 2026, 133322, -[[paper](https://doi.org/10.1016/j.neucom.2026.133322)] 
 .....
 
 # Preparation work
